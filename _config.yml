@@ -1,26 +1,36 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      Rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
+
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+
+safe: true
+
+whitelist:
+  - jekyll-gist
+  - jekyll-paginate
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Barista Betrayal
+tagline:          'Board game project for IAT 210'
+description:      'Board game based on  whatever whatever'
+url:              https://baristabetrayalproject.github.io
 baseurl:          /
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://baristabetrayalproject.github.io
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          4.4.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/gursewaktut/baristabetrayalproject

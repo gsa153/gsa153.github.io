@@ -5,7 +5,8 @@ highlighter:      Rouge
 # Permalinks
 permalink:        pretty
 relative_permalinks: false
-plugins: - jekyll-gist
+plugins:
+  - jekyll-gist
   - jekyll-paginate
 
 safe: true

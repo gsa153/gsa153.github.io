@@ -20,12 +20,12 @@ whitelist:
 title:            Barista Betrayal
 tagline:          'Board game project for IAT 210'
 description:      'Board game based on  whatever whatever'
-url:              https://gursewaktut.github.io/
-baseurl:          baristabetrayalproject/
+url:              https://gsa153.github.io/
+baseurl:          ""
 
 author:
   name:           ''
-  url:            https://gursewaktut.github.io/
+  url:            https://gsa153.github.io/
 
 paginate:         5
 
@@ -33,4 +33,4 @@ paginate:         5
 #version:          4.4.1
 
 github:
-  repo:           https://github.com/gursewaktut/baristabetrayalproject/
+  repo:           https://github.com/gsa153/gsa153.github.io/

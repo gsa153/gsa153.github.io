@@ -3,6 +3,7 @@ layout: post
 title: Introducing Barista Betrayal
 ---
 
+
 A Social Deduction Game of Trust, Deceit, and Lattes
 
 Welcome to the morning rush — where steam hisses, customers line up, and every order matters. Barista Betrayal throws you behind the counter of a bustling city café, where not all is as it seems. Among your team of hardworking baristas, one has gone rogue — slipping in sabotaged orders in a secret bid to take over the café.
@@ -25,20 +26,10 @@ Each game, players take on secret roles — some working hard to match customer 
 * **HOW:** Limited information, restricted communication, and high-stakes decision-making.
 * **WHY:** To deliver suspense, surprise, and satisfaction — every playthrough packed with tension and laughter.
 
-🎭 Play a Character. Stir the Pot.
-
-### To remove section
-~~Choose your barista persona or make your own:~~
-
-* ~~Tessa, the artistic chatterbox with sharp intuition.~~
-* ~~Marco, the quiet perfectionist with a photographic memory.~~
-* ~~Ms. Kowalski, the chemistry teacher turned espresso wizard.~~
-* ~~Emraan, the energetic gym rat with a flair for pastries and bad jokes.~~
-
-No matter who you are, anyone could be the saboteur.
-🪑 Designed for 4–6 Players
 
 Quick to learn. Hard to master. Perfect for game nights, party play, and chaotic café lovers.
 ☕ Can You Uncover the Betrayal Before It’s Too Late?
 
 Gather your friends, take your orders, and trust no one — the next match might be fake.
+
+Intrigued? Read through the [rule book]({% link rulebook.md  %}) and start playing.

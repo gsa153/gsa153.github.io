@@ -20,8 +20,8 @@ whitelist:
 title:            Barista Betrayal
 tagline:          'Board game project for IAT 210'
 description:      'Board game based on  whatever whatever'
-url:              https://baristabetrayalproject.github.io
-baseurl:          /
+url:              https://gursewaktut.github.io/baristabetrayalproject
+baseurl:          https://gursewaktut.github.io/baristabetrayalproject
 
 author:
   name:           'Mark Otto'

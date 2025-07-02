@@ -21,8 +21,7 @@ title:            Barista Betrayal
 tagline:          'Board game project for IAT 210'
 description:      'Board game based on  whatever whatever'
 url:              https://gsa153.github.io/
-baseurl:          ""
-
+baseurl:          https://gsa153.github.io/
 author:
   name:           ''
   url:            https://gsa153.github.io/

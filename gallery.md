@@ -5,4 +5,4 @@ title: Visual Gallery
 
 ### TODO
 
-Add the game assets, eg. Playing cards. 
+{% include image-gallery.html folder="/public/assets" %}

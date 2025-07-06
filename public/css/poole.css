@@ -87,12 +87,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   text-rendering: optimizeLegibility;
 }
+
 h1 {
   font-size: 2rem;
+  color: #8f5536;
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  color: #8f5536;
 }
 h3 {
   margin-top: 1.5rem;
@@ -337,7 +340,10 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+/*
+* color: #303030;
+*/
+  color: #8f5536;
 }
 .page-title,
 .post-title {

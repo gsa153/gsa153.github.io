@@ -3,14 +3,14 @@ layout: page
 title: Visual Gallery
 ---
 
-### TODO
-
-{% include image-gallery.html folder="/public/assets" %}
-
 
 ### Game board
 
+**Version 1**
 ![Board](/public/assets/board1.png)
+
+**Version 2**
+![Board](/public/assets/board2.png)
 
 ### Character cards
 
